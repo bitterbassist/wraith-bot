@@ -1,0 +1,20 @@
+# Python-related files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore the .env file if you're using it for sensitive data (e.g., API keys)
+.env
+
+# Ignore .json config files with sensitive information (edit if you need it tracked)
+config.json
+
+# Logs
+*.log
